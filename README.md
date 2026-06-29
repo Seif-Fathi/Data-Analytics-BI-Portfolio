@@ -1,2 +1,23 @@
-# Data-Analytics-BI-Portfolio
-"A curated portfolio of data analytics, SQL engineering, Power BI Dashboards and predictive machine learning projects for e-commerce and business intelligence."
+# Advanced Data Analytics & BI Portfolio
+
+Welcome to my professional data analytics and business intelligence portfolio. This repository serves as a curated showcase of end-to-end projects demonstrating expertise in SQL engineering, data pipelines, corporate BI dashboards, and production-ready machine learning.
+
+---
+
+## Featured Projects
+
+| Project Name | Domain | Core Tech Stack | Deep Dive Link |
+| :--- | :--- | :--- | :--- |
+| **E-Commerce Conversion & Predictive ML** | E-Commerce / Financial Analytics | Python, MySQL, SciPy, Scikit-Learn | [View Project Details](./ECommerce-Predictive-ML) |
+| **End-to-End Analytics Pipeline (Olist)** | E-Commerce / Business Intelligence | Python, SQL Server, Power BI | [View External Repository](https://github.com/Seif-Fathi/Olist-E2E-Data-Engineering-BI) |
+
+---
+
+## Technical Proficiencies Demonstrated Here
+* **Database & Engineering:** Relational Database Schema Design, SQL (MySQL / SQL Server), Connection Strings & Data Pipelines (SQLAlchemy).
+* **Corporate BI & Visualization:** Interactive Power BI Dashboards, Data Modeling, DAX, Analytical Funnel Mapping (Matplotlib, Seaborn).
+* **Statistical Inference:** Normality Testing, Non-Parametric Inference (Mann-Whitney U), Chi-Square Testing, Confidence Intervals (SciPy).
+* **Machine Learning:** Feature Engineering, Target Leakage Elimination, Class-Balanced Random Forest Classification (Scikit-Learn).
+
+---
+**Author:** Seif Fathi
