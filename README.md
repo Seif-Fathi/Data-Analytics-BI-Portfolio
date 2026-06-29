@@ -1,4 +1,4 @@
-# Advanced Data Analytics & BI Portfolio
+# Advanced Data Analytics & BI
 
 Welcome to my professional data analytics and business intelligence portfolio. This repository serves as a curated showcase of end-to-end projects demonstrating expertise in SQL engineering, data pipelines, corporate BI dashboards, and production-ready machine learning.
 
