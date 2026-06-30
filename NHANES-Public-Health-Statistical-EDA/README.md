@@ -91,7 +91,7 @@ The analysis answers key structural questions:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 1. Install core dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scipy
