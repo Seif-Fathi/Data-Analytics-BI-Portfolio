@@ -76,7 +76,7 @@ To prepare the dataset for rigorous analysis, several critical data engineering 
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repository and install the required dependencies:
    ```bash
@@ -88,6 +88,7 @@ To prepare the dataset for rigorous analysis, several critical data engineering 
 Author
 Seif Fathi Data Analyst & Python Developer specializing in Business Intelligence.
 
-Connect with me
+**Connect with me**
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seif.fathi22@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201112158797)
