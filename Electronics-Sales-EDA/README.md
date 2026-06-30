@@ -86,7 +86,8 @@ To prepare the dataset for rigorous analysis, several critical data engineering 
 3. Execute the notebook sequentially to clean the data and generate the statistical plots.
 
 Author
-Seif Fathi Data Analyst & Python Developer specializing in Business Intelligence.
+
+**Seif Fathi** Data Analyst & Python Developer specializing in Business Intelligence.
 
 **Connect with me**
 
